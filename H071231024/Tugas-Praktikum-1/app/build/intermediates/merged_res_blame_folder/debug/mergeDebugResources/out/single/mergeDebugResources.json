@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_baseline_check_24.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/baseline_check_24.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_event2.png.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/event2.png"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/xml_backup_rules.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_instagram.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/instagram.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_profile.jpg.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/profile.jpg"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_event4.jpg.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/event4.jpg"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_menu.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/menu.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_share.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/share.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_event1.jpeg.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/event1.jpeg"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_baseline_apartment_24.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/baseline_apartment_24.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_button_background.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_user.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/user.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_border.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/border.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_lokasi.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/lokasi.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_rounded_background.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/rounded_background.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_linkedin.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/linkedin.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_baseline_emoji_events_24.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/baseline_emoji_events_24.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_piala.xml.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/piala.xml"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_kucing.jpg.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/kucing.jpg"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.projeku.praktikum01.app-debug-4:/drawable_event3.jpg.flat",
+        "source": "com.projeku.praktikum01.app-main-6:/drawable/event3.jpg"
+    }
+]
