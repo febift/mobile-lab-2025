@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Praktikum 01</string>
+    <style name="Base.Theme.Praktikum01" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#323131</item>
+        
+        
+    </style>
+    <style name="Theme.Praktikum01" parent="Base.Theme.Praktikum01"/>
+    <style name="circleImageView" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
