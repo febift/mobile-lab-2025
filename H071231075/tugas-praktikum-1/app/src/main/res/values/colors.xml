@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna Dasar -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#008000</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="magenta">#FF00FF</color>
+
+    <!-- Variasi Warna -->
+    <!-- Merah -->
+    <color name="red_light">#FF6666</color>
+    <color name="red_dark">#990000</color>
+    <color name="red_soft">#FF9999</color>
+    <color name="red_bold">#CC0000</color>
+
+    <!-- Hijau -->
+    <color name="green_light">#66FF66</color>
+    <color name="green_dark">#006600</color>
+    <color name="green_soft">#99FF99</color>
+    <color name="green_bold">#009900</color>
+
+    <!-- Biru -->
+    <color name="blue_light">#6699FF</color>
+    <color name="blue_dark">#000066</color>
+    <color name="blue_soft">#99CCFF</color>
+    <color name="blue_bold">#0033CC</color>
+
+    <!-- Kuning -->
+    <color name="yellow_light">#FFFF99</color>
+    <color name="yellow_dark">#999900</color>
+    <color name="yellow_soft">#FFFFCC</color>
+    <color name="yellow_bold">#CCCC00</color>
+
+    <!-- Orange -->
+    <color name="orange_light">#FFB266</color>
+    <color name="orange_dark">#CC5500</color>
+    <color name="orange_soft">#FFCC99</color>
+    <color name="orange_bold">#FF6600</color>
+
+    <!-- Ungu -->
+    <color name="purple_light">#CC99FF</color>
+    <color name="purple_dark">#4B0082</color>
+    <color name="purple_soft">#D8BFD8</color>
+    <color name="purple_bold">#800080</color>
+
+    <!-- Abu-abu -->
+    <color name="gray_light">#D3D3D3</color>
+    <color name="gray_dark">#505050</color>
+    <color name="gray_soft">#E0E0E0</color>
+    <color name="gray_bold">#808080</color>
+
+</resources>
+
