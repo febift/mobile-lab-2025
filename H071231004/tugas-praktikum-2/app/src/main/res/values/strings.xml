@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TPiNTENT</string>
+
+    <string-array name="gender_options">
+        <item>Do not specify</item>
+        <item>they</item>
+        <item>she</item>
+        <item>he</item>
+    </string-array>
+
+</resources>
