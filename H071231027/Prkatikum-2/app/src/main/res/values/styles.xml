@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCardShape1">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">16dp</item> <!-- Radius sudut kiri atas -->
+        <item name="cornerSizeTopRight">16dp</item> <!-- Radius sudut kanan atas -->
+        <item name="cornerSizeBottomLeft">0dp</item> <!-- Radius sudut kiri bawah -->
+        <item name="cornerSizeBottomRight">0dp</item> <!-- Radius sudut kanan bawah -->
+    </style>
+
+    <style name="CustomCardShape2">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">0dp</item> <!-- Radius sudut kiri atas -->
+        <item name="cornerSizeTopRight">0dp</item> <!-- Radius sudut kanan atas -->
+        <item name="cornerSizeBottomLeft">16dp</item> <!-- Radius sudut kiri bawah -->
+        <item name="cornerSizeBottomRight">16dp</item> <!-- Radius sudut kanan bawah -->
+    </style>
+</resources>
