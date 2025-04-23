@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <!-- TextView untuk instruksi "Select a photo" -->
+    <TextView
+        android:id="@+id/select_photo_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select a photo"
+        android:textSize="18sp"
+        android:textColor="#808080"
+        android:visibility="visible" />
+
+    <!-- ImageView untuk mengganti gambar profil -->
+    <ImageView
+        android:id="@+id/edit_profile_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/tes"
+        android:layout_gravity="center"
+        android:layout_margin="16dp"
+        android:contentDescription="Profile Image" />
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama"
+        android:layout_marginTop="20dp" />
+
+    <EditText
+        android:id="@+id/edit_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Username"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Simpan"
+        android:layout_marginTop="24dp" />
+</LinearLayout>
