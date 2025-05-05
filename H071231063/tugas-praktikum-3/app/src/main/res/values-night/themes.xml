@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema utama aplikasi -->
+    <style name="Theme.Instagram" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme di sini -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+    </style>
+</resources>

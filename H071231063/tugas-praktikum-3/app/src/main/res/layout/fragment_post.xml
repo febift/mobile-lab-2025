@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".PostFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/photoToPost"
+            android:layout_width="match_parent"
+            android:layout_height="370dp"
+            android:contentDescription="@string/posting"
+            android:src="@drawable/ic_image"
+            android:layout_marginBottom="20dp"/>
+
+        <EditText
+            android:id="@+id/caption_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints="caption"
+            android:hint="@string/write_a_caption"
+            android:textColor="@android:color/white"
+            android:textColorHint="@color/gray"
+            android:textSize="14sp"
+            android:maxLines="3"
+            android:padding="12dp"
+            android:background="@drawable/edit_text"/>
+
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_margin="20dp"
+            android:text="@string/post"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/instagram_blue"
+            android:textAllCaps="false"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+
+</FrameLayout>
