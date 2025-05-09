@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/edit_profile_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#212020"
+    tools:context=".EditProfileActivity">
+
+    <TextView
+        android:id="@+id/edit_profile_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Edit Profile"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/back"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="16dp"
+        android:text="Save"
+        android:textColor="#3498DB"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/edit_profile_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/profile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_profile_title" />
+
+    <TextView
+        android:id="@+id/change_photo_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Change profile photo"
+        android:textColor="#3498DB"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_profile_image" />
+
+    <TextView
+        android:id="@+id/name_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="40dp"
+        android:text="Name"
+        android:textColor="#B0B0B0"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/change_photo_text" />
+
+    <EditText
+        android:id="@+id/edit_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:backgroundTint="#444444"
+        android:hint="Enter your name"
+        android:inputType="textPersonName"
+        android:padding="12dp"
+        android:text="Musliati"
+        android:textColor="@color/white"
+        android:textColorHint="#888888"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name_label" />
+
+    <TextView
+        android:id="@+id/username_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:text="Username"
+        android:textColor="#B0B0B0"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_name" />
+
+    <EditText
+        android:id="@+id/edit_username"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:backgroundTint="#444444"
+        android:hint="Enter your username"
+        android:inputType="text"
+        android:padding="12dp"
+        android:text="musliati"
+        android:textColor="@color/white"
+        android:textColorHint="#888888"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/username_label" />
+
+    <TextView
+        android:id="@+id/bio_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:text="Bio"
+        android:textColor="#B0B0B0"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_username" />
+
+    <EditText
+        android:id="@+id/edit_bio"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:backgroundTint="#444444"
+        android:gravity="top"
+        android:hint="Enter your bio"
+        android:inputType="textMultiLine"
+        android:lines="3"
+        android:padding="12dp"
+        android:text="Berusaha hidup dalam hidup"
+        android:textColor="@color/white"
+        android:textColorHint="#888888"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bio_label" />
+
+    <TextView
+        android:id="@+id/university_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:text="University"
+        android:textColor="#B0B0B0"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_bio" />
+
+    <EditText
+        android:id="@+id/edit_university"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:backgroundTint="#444444"
+        android:hint="Enter your university"
+        android:inputType="text"
+        android:padding="12dp"
+        android:text="Hasanuddin University"
+        android:textColor="@color/white"
+        android:textColorHint="#888888"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/university_label" />
+
+    <TextView
+        android:id="@+id/location_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:text="Location"
+        android:textColor="#B0B0B0"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edit_university" />
+
+    <EditText
+        android:id="@+id/edit_location"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:backgroundTint="#444444"
+        android:hint="Enter your location"
+        android:inputType="text"
+        android:padding="12dp"
+        android:text="Makassar"
+        android:textColor="@color/white"
+        android:textColorHint="#888888"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/location_label" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
