@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--bottom_nav_info_reviews-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/info"
+        android:title="Info"
+        android:icon="@drawable/info"/>
+
+    <item
+        android:id="@+id/reviews"
+        android:title="Reviews"
+        android:icon="@drawable/review"/>
+</menu>
