@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Select Genre"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="10dp"/>
+
+            <CheckBox
+                android:id="@+id/arts_and_photography"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Arts and Photography"/>
+
+            <CheckBox
+                android:id="@+id/philosophy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Philosophy"/>
+
+            <CheckBox
+                android:id="@+id/biography"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Biographies"/>
+
+            <CheckBox
+                android:id="@+id/business_and_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Business and Money"/>
+
+            <CheckBox
+                android:id="@+id/calendars"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Calendars"/>
+
+            <CheckBox
+                android:id="@+id/childrens_books"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Children's Books"/>
+
+            <CheckBox
+                android:id="@+id/comic_and_graphic_novels"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Comic and Graphic Novels"/>
+
+            <CheckBox
+                android:id="@+id/computers_and_technology"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Computers and Technology"/>
+
+            <CheckBox
+                android:id="@+id/cookbooks_and_food_and_wine"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cookbooks, Food and Wine"/>
+
+            <CheckBox
+                android:id="@+id/crafts_and_hobbies_and_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Crafts, Hobbies and Home"/>
+
+            <CheckBox
+                android:id="@+id/education_and_teaching"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Education and Teaching"/>
+
+            <CheckBox
+                android:id="@+id/engineering_and_transportation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Engineering and Transportation"/>
+
+            <CheckBox
+                android:id="@+id/health_and_fitness_and_dieting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Health, Fitness and Dieting"/>
+
+            <CheckBox
+                android:id="@+id/history"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="History"/>
+
+
+            <CheckBox
+                android:id="@+id/humor_and_entertainment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Humor and Entertainment"/>
+
+
+            <CheckBox
+                android:id="@+id/law"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Law"/>
+
+
+            <CheckBox
+                android:id="@+id/literature_and_fiction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Literature and Fiction"/>
+
+
+            <CheckBox
+                android:id="@+id/medical_book"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Medical Book"/>
+
+
+            <CheckBox
+                android:id="@+id/mistery_and_thriller"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mistery and Thriller"/>
+
+
+            <CheckBox
+                android:id="@+id/parenting_and_relationships"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Parenting and Relationships"/>
+
+
+            <CheckBox
+                android:id="@+id/politics_and_social_science"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Politics and Social Science"/>
+
+
+            <CheckBox
+                android:id="@+id/reference_books"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Reference Books"/>
+
+
+            <CheckBox
+                android:id="@+id/religion_and_spirituality"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Religion and Spirituality"/>
+
+
+            <CheckBox
+                android:id="@+id/romance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Romance"/>
+
+
+            <CheckBox
+                android:id="@+id/science_fiction"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Science Fiction"/>
+
+
+            <CheckBox
+                android:id="@+id/science_and_mathematics"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Science and Mathematics"/>
+
+
+            <CheckBox
+                android:id="@+id/self_help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Self Help"/>
+
+
+            <CheckBox
+                android:id="@+id/sports_and_outdoors"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sports and Outdoors"/>
+
+
+            <CheckBox
+                android:id="@+id/travel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Travel"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btn_apply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apply"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>

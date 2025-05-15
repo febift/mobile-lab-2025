@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="author">Tere Liye</string>
+    <string name="year_format">2013</string>
+    <string name="book_image">bookImage</string>
+    <string name="add_book">add Book</string>
+    <string name="genre">genre</string>
+    <string name="add_title">Add Title</string>
+    <string name="rating">5.5</string>
+    <string name="content">content</string>
+    <string name="title">Bumi</string>
+    <string name="library">Library</string>
+    <string name="favorite">Favorite</string>
+    <string name="addfavorite">Tambah ke favorit</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat .</string>
+</resources>
