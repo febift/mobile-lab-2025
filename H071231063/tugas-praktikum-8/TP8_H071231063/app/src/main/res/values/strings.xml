@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP8_H071231063</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="change">Change</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
