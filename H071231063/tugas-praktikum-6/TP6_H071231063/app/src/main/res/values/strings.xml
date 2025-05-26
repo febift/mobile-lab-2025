@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP6_H071231063</string>
+    <string name="load">LOAD MORE</string>
+    <string name="name">Rick Sanchez</string>
+    <string name="status">Alive</string>
+    <string name="gender">Male</string>
+    <string name="species">Human</string>
+</resources>

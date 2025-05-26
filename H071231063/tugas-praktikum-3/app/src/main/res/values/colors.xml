@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text">#fcfdfd</color>
+    <color name="text2">#a0a3aa</color>
+    <color name="gradient_start">#a0a3aa</color>
+    <color name="dark_gray">#262626</color>
+    <color name="gray">#808080</color>
+    <color name="instagram_blue">#0095f6</color>
+</resources>
