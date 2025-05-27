@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Praktikum 8</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="tambah">Tambah</string>
+    <string name="submit">Submit</string>
+</resources>
+
