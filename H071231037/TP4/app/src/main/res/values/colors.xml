@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#8A40EF</color>
+    <color name="chip_state_dark">#2D2D2D</color>
+    <color name="chip_state_selected_dark">#BB86FC</color>
+</resources>
